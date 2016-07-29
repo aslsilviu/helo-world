@@ -1,2 +1,4 @@
 # helo-world
-lets play with githu
+lets play with github
+
+looks nice
